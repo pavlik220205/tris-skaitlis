@@ -1,0 +1,3 @@
+﻿  tris-skaitlis.cpp
+c:\users\pavli\source\repos\tris-skaitlis\tris-skaitlis\tris-skaitlis.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  tris-skaitlis.vcxproj -> C:\Users\pavli\source\repos\tris-skaitlis\Debug\tris-skaitlis.exe
